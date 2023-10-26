@@ -1,0 +1,17 @@
+{
+    "name": "anton/gamefication-task",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Mauricio",
+            "email": "127690696+Dedo-Finger2@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
